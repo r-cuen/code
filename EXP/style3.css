@@ -1,0 +1,55 @@
+* {
+	border: 1px solid red !important;
+}
+body { 
+	padding-top: 0px;
+	/*background-image: url("http://placekitten.com/3000/1500");*/
+
+}
+
+nav {
+	padding-top: 10px ;
+	background-color: black;
+}
+
+.container {
+	width: 100%;
+}
+
+.bartext {
+	padding-top: 1.3%;
+}
+
+.mainpicfull{
+	padding: 0px!important;
+}
+
+
+.text {
+	font-size: 20rem
+}
+
+
+
+
+
+
+.text {
+/*  background:rgba(255,255,255,0.5);*/
+  position: absolute;
+  top:50%;
+  left:20%;
+  padding:1rem;
+  transform:translateY(-50%);
+}
+
+@media screen and (max-width:680px){
+  .text {font-size: 10rem}
+}
+@media screen and (max-width:540px){
+  .text {font-size: 8rem}
+}
+
+
+
+

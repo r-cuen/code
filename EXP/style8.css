@@ -1,0 +1,57 @@
+/*header {
+  background-image: url(img/note.jpg);
+  background-repeat: repeat-x;
+  background-position: center center;
+}
+*/
+
+/*.navbar{
+ background:rgba(255,255,255,0.6);
+}*/
+
+/** {
+  border: 1px solid red !important;
+}*/
+
+
+.navbar { /*no margin space after navbar*/
+    margin-bottom: 0;
+}
+
+
+.textpad { /*decript*/
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  border-radius: 25px;
+  border: 2px solid #8AC007;
+  background-color: #3B1C32; /* lorem*/
+}
+
+.three-buttons {
+  margin: 100px;
+}
+/*para scroll*/
+#intro {
+  background: url(img/note3.jpg)  fixed 50% / cover;
+  margin: 0 auto; 
+  width: 100%; 
+  padding: 2%;
+  height: 350px;
+/*  height: auto;*/  
+}
+
+.hero-unit {
+  background-color: transparent;
+  box-shadow: 0 0 20px rgba(0,0,0,0.8);
+}
+/*end para scroll*/
+
+
+/*media queries*/
+
+@media (min-width: 480px) {
+    img { float:right; margin:1px }
+}
+/*end media queries*/

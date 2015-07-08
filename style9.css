@@ -1,0 +1,145 @@
+
+/** {
+  border: 1px solid red !important;
+}*/
+
+p {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-size: 14px;
+  line-height: 1.42857143;
+}
+.margpic {
+    margin-top: 0px;
+    margin-bottom: 0px !important;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.three-buttons {
+  margin: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.navbar { /*no margin space after navbar*/
+    margin-bottom: 0;
+}
+
+.textpad { /*decript*/
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 1px;
+  border-radius: 25px;
+  border: 2px solid #8AC007;
+  background-color: #3B1C32; /* lorem*/
+}
+
+
+/*para scroll*/
+#intro {
+  background: url(img/desk2.jpg)  fixed 50% / cover;
+  margin: 0 auto; 
+  width: 100%; 
+  padding: 2%;
+  height: 600px; /*height of header pic*/
+}
+
+.invisibi-text {
+  background-color: transparent;
+  box-shadow: 0 0 20px rgba(0,0,0,0);
+  padding: .1%;
+  color: black;
+}
+/*end para scroll*/
+
+
+
+/*BREAKBREAKBREAKBAKBREAKBKBREAKBAKBREAKBKBREAKBAKBREAKBREAK*/
+/*about page*/
+.parapic {
+  margin-bottom: 6%;
+}
+.imgbor {
+  border: 2px dashed black !important;
+}
+/*end about page*/
+/*BREAKBREAKBREAKBAKBRKBREAKBAKBREAKBKBREAKBAKBREAKBEAKBREAK*/
+/*allvid page*/
+.allvid {
+  margin-bottom: 15% !important;
+}
+
+.oneh2 {
+  margin-top: 0 !important;
+}
+
+
+/*end allvid page*/
+/*BREAKBREAKBREAKBAKKBREAKBAKBREAKBKBREAKBAKBREAKBBREAKBREAK*/
+/*allquizzes page*/
+.quizmar {
+  margin-bottom: 10% !important;
+}
+/*end allquizzes page*/
+/*BREAKBREAKBREAKBAKBKBREAKBAKBREAKBKBREAKBAKBREAKBREAKBREAK*/
+/*main tech page*/
+.techmar {
+  margin-bottom: 2% !important;
+}
+/*end main tech page*/
+/*BREAKBREAKBREAKBAKBKBREAKBAKBREAKBKBREAKBAKBREAKBREAKBREAK*/
+/*allnotes page*/
+.notepad {
+  border-radius: 5px;
+  background: #fff;
+  padding: 20px;
+  box-shadow: 0 1px 5px rgba(0,0,0,.2);
+}
+body.grey {
+  background: url(img/grey.jpg) center;
+  background-size: 50px 50px;
+  background-size: 50px 50px;
+  background-size: 50px 50px;
+  background-size: 50px 50px;
+}
+
+.notemar {
+  margin-bottom: 7%;
+}
+.grey h1 {
+  color: #4F5C78;
+}
+.grey h2 {
+  color: #4F5C78;
+}
+
+body.grey {
+
+  color: #1b1c31;
+  font-weight: 300;
+
+}
+
+.font {
+  font-family: "Lato", sans-serif;
+}
+
+.notefont {
+  font-family: Verdana !important; 
+}
+
+.notebtn {
+  margin-top: 2% !important;
+}
+
+
+/*end all notes page*/
+/*BREAKBREAKBREAKBAKKBREAKBAKBREAKBKBREAKBAKBREAKBBREAKBREAK*/
+
+
+/*BREAKBREAKBREAKBAKKBREAKBAKBREAKBKBREAKBAKBREAKBBREAKBREAK*/
+/*BREAKBREAKBREAKBAKBKBREAKBAKBREAKBKBREAKBAKBREAKBREAKBREAK*/
+/*BREAKBREAKBREAKBAKKBREAKBAKBREAKBKBREAKBAKBREAKBBREAKBREAK*/

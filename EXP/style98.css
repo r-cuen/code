@@ -1,0 +1,75 @@
+
+/** {
+  border: 1px solid red !important;
+}*/
+
+
+
+/* .testxar {
+  max-width:100%;
+  max-height:100%; 
+        }*/
+
+.margpic{
+    margin-top: 0px;
+    margin-bottom: 0px !important;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.three-buttons {
+  margin: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+
+}
+
+
+
+
+
+
+
+
+
+.navbar { /*no margin space after navbar*/
+    margin-bottom: 0;
+}
+
+
+
+.textpad { /*decript*/
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 1px;
+  border-radius: 25px;
+  border: 2px solid #8AC007;
+  background-color: #3B1C32; /* lorem*/
+}
+
+
+/*para scroll*/
+#intro {
+  background: url(img/desk.jpg)  fixed 50% / cover;
+  margin: 0 auto; 
+  width: 100%; 
+  padding: 2%;
+  height: 590px; /*height of header pic*/
+/*  height: auto;*/  
+}
+
+.invisibi-text {
+  background-color: transparent;
+  box-shadow: 0 0 20px rgba(0,0,0,0);
+/*  padding-top: .1%;*/
+  padding: .1%;
+  color: black;
+
+}
+/*end para scroll*/
+
+
+

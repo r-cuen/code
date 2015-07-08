@@ -1,0 +1,17 @@
+/* {
+	border: 1px solid red !important;
+}*/
+
+body { 
+	padding-top: 0px;
+}
+
+nav {
+	padding-top: 10px ;
+	background-color: black;
+}
+
+.container {
+	width: 100%;
+}
+
